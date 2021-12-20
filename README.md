@@ -13,7 +13,7 @@
 ### Goto [PrepareYourData.ipynb](PrepareYourData.ipynb)
 - write path to your file
 - run all cells
-#### If you do everything right you should have *DataForTest.csv* file.
+#### If you do everything right there had to generete *DataForTest.csv* file.
 ### DataForTest.csv:
 | password	| len_of_pswd	| is_digit	| is_char	| is_upper	| is_special_characters	| strength | 
 | -----------	| ------	| ------	| -------	| ------	| -----	| ----- | 
@@ -22,7 +22,7 @@
 | 1qaz!QAZ	| 8	| 1	| 1	| 1	| 1	| 2 | 
 | ...	| ...	| ...	| ...	| ...	| ...	| ... | 
 
-## [2st step] Test classifier
+## [2nd step] Test classifier
 ---
 ### Goto [BuildingClassifier.ipynb](BuildingClassifier.ipynb)
 - run cells one by one
